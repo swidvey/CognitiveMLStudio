@@ -27,7 +27,7 @@ Led by [Seneca Widvey](https://senecawidvey.com), the studio is designed to grow
 TBD
 
 
-
+---
 
 MIT License — free to use, adapt, and share with attribution.  
 See [LICENSE](./LICENSE) for full details.
