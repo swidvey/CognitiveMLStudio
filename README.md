@@ -23,11 +23,13 @@ Led by [Seneca Widvey](https://senecawidvey.com), the studio is designed to grow
 
 ---
 
-## 🗂️ Repository Structure
-TBD
+## 📰 Read the Blog on Medium  
+
+[![Read the Blog on Medium](https://img.shields.io/badge/Visit%20Blog%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/cognitivemlstudio)
 
 
----
+--
+
 
 MIT License — free to use, adapt, and share with attribution.  
 See [LICENSE](./LICENSE) for full details.

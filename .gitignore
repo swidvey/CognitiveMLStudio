@@ -1,0 +1,38 @@
+# VSCode settings
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log & cache
+*.log
+.cache/
+*.sqlite3
+*.db
+
+# Secrets or credentials (if used)
+*.env
+.env.*
+
+# Jupyter NB metadata (optional)
+*.nbconvert.ipynb
