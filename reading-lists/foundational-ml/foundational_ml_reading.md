@@ -61,4 +61,4 @@ If you’re just starting out in ML, I *highly recommend* beginning with *An Int
 
 ---
 
-*Have a favorite foundational resource? Feel free to fork and contribute!*
+
